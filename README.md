@@ -12,6 +12,6 @@ The review samples and movie information are fetched from the TMDB API.
 
 The model is started using app.py and it communicates with the HTML page using Flask. 
 
-![Positive Sentiment](images/Positive%20Sentiment.png)
+<img src="images/Positive%20Sentiment.png" alt="Positive Sentiment" width="400"/>
 
-![Negative Sentiment](images/Negative%20Sentiment.png)
+<img src="images/Negative%20Sentiment.png" alt="Negative Sentiment" width="400"/>
